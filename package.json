@@ -1,0 +1,24 @@
+{
+  "name": "matiapp",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mysql2": "^1.4.2",
+    "nodemailer": "^4.6.3",
+    "passport": "*",
+    "passport-jwt": "*",
+    "sequelize": "^4.22.5"
+  },
+  "author": "virginia vitali",
+  "license": "ISC"
+}
